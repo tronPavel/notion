@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "6c982f85-1c2a-4b91-82c1-855101922ba0",
+      "email": "user1@gmail.com",
+      "password": "123456aA",
+      "createdAt": 1732323372948
+    },
+    {
+      "id": "9dc3b97a-914d-44cc-b394-380f347bd148",
+      "email": "user2@gmail.com",
+      "password": "123456aA",
+      "createdAt": 1732323546314
+    }
+  ],
+  "notes": [
+    {
+      "id": "427da15a-4aa3-4d74-bd13-371e6edd4ad5",
+      "title": "lorem",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident quae reprehenderit temporibus assumenda ratione eaque, voluptatum nulla autem tempora, distinctio corporis quod praesentium saepe magni, quasi libero ea repudiandae ut!",
+      "authorId": "6c982f85-1c2a-4b91-82c1-855101922ba0",
+      "createdAt": 1732323454218
+    },
+    {
+      "id": "ca293ce8-9672-4b87-b3c7-e72fa71d0b99",
+      "title": "ipsum",
+      "body": "Provident quae reprehenderit temporibus assumenda ratione eaque, voluptatum nulla autem tempora, distinctio corporis quod praesentium saepe magni, quasi libero ea repudiandae ut!",
+      "authorId": "6c982f85-1c2a-4b91-82c1-855101922ba0",
+      "createdAt": 1732323512742
+    },
+    {
+      "id": "8ea1a073-8fa2-4444-8663-e7dc16eea657",
+      "title": "corporis22",
+      "body": "distinctio corporis quod praesentium saepe magni, quasi libero ea repudiandae ut!",
+      "authorId": "9dc3b97a-914d-44cc-b394-380f347bd148",
+      "createdAt": 1732323618797
+    },
+    {
+      "id": "ef3bf3f8-50bc-49fa-8963-184f2593f170",
+      "title": "lorem33",
+      "body": "lorem3",
+      "authorId": "9dc3b97a-914d-44cc-b394-380f347bd148",
+      "createdAt": 1734733031040
+    },
+    {
+      "id": "48245957-b94f-473b-8b21-00ca2825670d",
+      "title": "newnote",
+      "body": "text",
+      "authorId": "9dc3b97a-914d-44cc-b394-380f347bd148",
+      "createdAt": 1734733244432
+    }
+  ]
+}
